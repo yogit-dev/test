@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ymgenv.github.io/bysolutions/sitemap.xml
+Sitemap: https://yogit-dev.github.io/bysolutions/sitemap.xml
